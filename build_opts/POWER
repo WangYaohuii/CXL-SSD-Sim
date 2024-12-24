@@ -1,0 +1,2 @@
+USE_POWER_ISA = True
+PROTOCOL = 'MI_example'

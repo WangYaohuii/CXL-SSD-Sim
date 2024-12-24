@@ -1,0 +1,2 @@
+USE_MIPS_ISA = True
+PROTOCOL = 'MI_example'

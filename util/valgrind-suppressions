@@ -1,0 +1,60 @@
+{
+   python error
+   Memcheck:Cond
+   obj:*libpython3*
+}
+{
+   python error
+   Memcheck:Addr1
+   obj:*libpython3*
+}
+{
+   python error
+   Memcheck:Addr2
+   obj:*libpython3*
+}
+{
+   python error
+   Memcheck:Addr4
+   obj:*libpython3*
+}
+{
+   python error
+   Memcheck:Addr8
+   obj:*libpython3*
+}
+{
+   python error
+   Memcheck:Addr16
+   obj:*libpython3*
+}
+{
+   python error
+   Memcheck:Value1
+   obj:*libpython3*
+}
+{
+   python error
+   Memcheck:Value2
+   obj:*libpython3*
+}
+{
+   python error
+   Memcheck:Value4
+   obj:*libpython3*
+}
+{
+   python error
+   Memcheck:Value8
+   obj:*libpython3*
+}
+{
+   python error
+   Memcheck:Value16
+   obj:*libpython3*
+}
+{
+   zlib error
+   Memcheck:Cond
+   fun:inflateReset2
+}

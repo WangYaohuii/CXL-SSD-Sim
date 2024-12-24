@@ -1,0 +1,2 @@
+PROTOCOL = 'MOESI_AMD_Base'
+USE_X86_ISA = True

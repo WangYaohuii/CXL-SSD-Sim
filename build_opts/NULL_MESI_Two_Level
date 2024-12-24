@@ -1,0 +1,2 @@
+USE_NULL_ISA = True
+PROTOCOL = 'MESI_Two_Level'

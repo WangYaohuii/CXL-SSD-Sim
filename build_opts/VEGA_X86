@@ -1,0 +1,4 @@
+PROTOCOL = 'GPU_VIPER'
+USE_X86_ISA = True
+TARGET_GPU_ISA = 'vega'
+BUILD_GPU = True

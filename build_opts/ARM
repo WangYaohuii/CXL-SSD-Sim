@@ -1,0 +1,2 @@
+USE_ARM_ISA = True
+PROTOCOL = 'CHI'
